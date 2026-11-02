@@ -1,0 +1,6 @@
+# Dependencias previstas. Fixar as versoes usadas (pip freeze) depois que o script rodar.
+numpy
+pandas
+openpyxl
+scipy
+matplotlib
